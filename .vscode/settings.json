@@ -1,0 +1,6 @@
+{
+    "csharp.format.enable": true,
+    "csharpextensions.useThisForCtorAssignments": false,
+    "csharpextensions.privateMemberPrefix": "_",
+    "omnisharp.enableImportCompletion": true
+}
